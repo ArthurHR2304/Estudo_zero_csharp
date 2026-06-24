@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Calculadora_De_Notas": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

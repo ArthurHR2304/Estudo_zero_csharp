@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Maior_de_Dois_Numeros": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

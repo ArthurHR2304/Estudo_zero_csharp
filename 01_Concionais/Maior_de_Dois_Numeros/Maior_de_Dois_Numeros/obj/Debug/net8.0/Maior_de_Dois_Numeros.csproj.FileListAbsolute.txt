@@ -1,0 +1,14 @@
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Maior_de_Dois_Numeros\Maior_de_Dois_Numeros\bin\Debug\net8.0\Maior_de_Dois_Numeros.exe
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Maior_de_Dois_Numeros\Maior_de_Dois_Numeros\bin\Debug\net8.0\Maior_de_Dois_Numeros.deps.json
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Maior_de_Dois_Numeros\Maior_de_Dois_Numeros\bin\Debug\net8.0\Maior_de_Dois_Numeros.runtimeconfig.json
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Maior_de_Dois_Numeros\Maior_de_Dois_Numeros\bin\Debug\net8.0\Maior_de_Dois_Numeros.dll
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Maior_de_Dois_Numeros\Maior_de_Dois_Numeros\bin\Debug\net8.0\Maior_de_Dois_Numeros.pdb
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Maior_de_Dois_Numeros\Maior_de_Dois_Numeros\obj\Debug\net8.0\Maior_de_Dois_Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Maior_de_Dois_Numeros\Maior_de_Dois_Numeros\obj\Debug\net8.0\Maior_de_Dois_Numeros.AssemblyInfoInputs.cache
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Maior_de_Dois_Numeros\Maior_de_Dois_Numeros\obj\Debug\net8.0\Maior_de_Dois_Numeros.AssemblyInfo.cs
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Maior_de_Dois_Numeros\Maior_de_Dois_Numeros\obj\Debug\net8.0\Maior_de_Dois_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Maior_de_Dois_Numeros\Maior_de_Dois_Numeros\obj\Debug\net8.0\Maior_de_Dois_Numeros.dll
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Maior_de_Dois_Numeros\Maior_de_Dois_Numeros\obj\Debug\net8.0\refint\Maior_de_Dois_Numeros.dll
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Maior_de_Dois_Numeros\Maior_de_Dois_Numeros\obj\Debug\net8.0\Maior_de_Dois_Numeros.pdb
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Maior_de_Dois_Numeros\Maior_de_Dois_Numeros\obj\Debug\net8.0\Maior_de_Dois_Numeros.genruntimeconfig.cache
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Maior_de_Dois_Numeros\Maior_de_Dois_Numeros\obj\Debug\net8.0\ref\Maior_de_Dois_Numeros.dll

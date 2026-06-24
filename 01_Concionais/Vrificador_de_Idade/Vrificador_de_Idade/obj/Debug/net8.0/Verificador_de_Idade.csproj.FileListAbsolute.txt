@@ -1,0 +1,14 @@
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Vrificador_de_Idade\Vrificador_de_Idade\bin\Debug\net8.0\Verificador_de_Idade.exe
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Vrificador_de_Idade\Vrificador_de_Idade\bin\Debug\net8.0\Verificador_de_Idade.deps.json
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Vrificador_de_Idade\Vrificador_de_Idade\bin\Debug\net8.0\Verificador_de_Idade.runtimeconfig.json
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Vrificador_de_Idade\Vrificador_de_Idade\bin\Debug\net8.0\Verificador_de_Idade.dll
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Vrificador_de_Idade\Vrificador_de_Idade\bin\Debug\net8.0\Verificador_de_Idade.pdb
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Vrificador_de_Idade\Vrificador_de_Idade\obj\Debug\net8.0\Verificador_de_Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Vrificador_de_Idade\Vrificador_de_Idade\obj\Debug\net8.0\Verificador_de_Idade.AssemblyInfoInputs.cache
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Vrificador_de_Idade\Vrificador_de_Idade\obj\Debug\net8.0\Verificador_de_Idade.AssemblyInfo.cs
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Vrificador_de_Idade\Vrificador_de_Idade\obj\Debug\net8.0\Verificador_de_Idade.csproj.CoreCompileInputs.cache
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Vrificador_de_Idade\Vrificador_de_Idade\obj\Debug\net8.0\Verificador_de_Idade.dll
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Vrificador_de_Idade\Vrificador_de_Idade\obj\Debug\net8.0\refint\Verificador_de_Idade.dll
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Vrificador_de_Idade\Vrificador_de_Idade\obj\Debug\net8.0\Verificador_de_Idade.pdb
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Vrificador_de_Idade\Vrificador_de_Idade\obj\Debug\net8.0\Verificador_de_Idade.genruntimeconfig.cache
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Vrificador_de_Idade\Vrificador_de_Idade\obj\Debug\net8.0\ref\Verificador_de_Idade.dll

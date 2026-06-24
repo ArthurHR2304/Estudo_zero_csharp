@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Par_ou_Ímpar": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

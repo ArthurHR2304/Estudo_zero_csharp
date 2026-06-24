@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Verificador_de_Idade/1.0.0": {
+        "runtime": {
+          "Verificador_de_Idade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Verificador_de_Idade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

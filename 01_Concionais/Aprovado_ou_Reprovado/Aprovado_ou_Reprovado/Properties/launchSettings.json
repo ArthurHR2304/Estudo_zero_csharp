@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Aprovado_ou_Reprovado": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

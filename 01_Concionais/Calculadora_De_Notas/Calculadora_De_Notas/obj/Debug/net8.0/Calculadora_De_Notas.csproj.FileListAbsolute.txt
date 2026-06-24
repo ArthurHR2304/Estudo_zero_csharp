@@ -1,0 +1,14 @@
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Calculadora_De_Notas\Calculadora_De_Notas\bin\Debug\net8.0\Calculadora_De_Notas.exe
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Calculadora_De_Notas\Calculadora_De_Notas\bin\Debug\net8.0\Calculadora_De_Notas.deps.json
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Calculadora_De_Notas\Calculadora_De_Notas\bin\Debug\net8.0\Calculadora_De_Notas.runtimeconfig.json
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Calculadora_De_Notas\Calculadora_De_Notas\bin\Debug\net8.0\Calculadora_De_Notas.dll
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Calculadora_De_Notas\Calculadora_De_Notas\bin\Debug\net8.0\Calculadora_De_Notas.pdb
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Calculadora_De_Notas\Calculadora_De_Notas\obj\Debug\net8.0\Calculadora_De_Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Calculadora_De_Notas\Calculadora_De_Notas\obj\Debug\net8.0\Calculadora_De_Notas.AssemblyInfoInputs.cache
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Calculadora_De_Notas\Calculadora_De_Notas\obj\Debug\net8.0\Calculadora_De_Notas.AssemblyInfo.cs
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Calculadora_De_Notas\Calculadora_De_Notas\obj\Debug\net8.0\Calculadora_De_Notas.csproj.CoreCompileInputs.cache
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Calculadora_De_Notas\Calculadora_De_Notas\obj\Debug\net8.0\Calculadora_De_Notas.dll
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Calculadora_De_Notas\Calculadora_De_Notas\obj\Debug\net8.0\refint\Calculadora_De_Notas.dll
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Calculadora_De_Notas\Calculadora_De_Notas\obj\Debug\net8.0\Calculadora_De_Notas.pdb
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Calculadora_De_Notas\Calculadora_De_Notas\obj\Debug\net8.0\Calculadora_De_Notas.genruntimeconfig.cache
+C:\Users\arthur.resende\Documents\Estudo_zero_c#\01_Concionais\Calculadora_De_Notas\Calculadora_De_Notas\obj\Debug\net8.0\ref\Calculadora_De_Notas.dll

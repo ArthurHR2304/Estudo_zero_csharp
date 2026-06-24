@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Zr+gNqChQE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arthur.resende\\Documents\\Estudo_zero_c#\\01_Concionais\\Aprovado_ou_Reprovado\\Aprovado_ou_Reprovado\\Aprovado_ou_Reprovado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arthur.resende\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
