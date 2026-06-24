@@ -1,13 +1,18 @@
-﻿################################################################################
-# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
-################################################################################
+﻿
+# Arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
 
-/.vs/Estudo_zero_csharp.slnx/FileContentIndex/d4ba1493-0d82-4522-b5b9-a26c562543be.vsidx
-/.vs
-/01_Concionais/Calculadora_De_Notas/Calculadora_De_Notas/obj/Debug/net8.0/Calculadora_De_Notas.AssemblyInfo.cs
-/01_Concionais/Calculadora_De_Notas/Calculadora_De_Notas/obj/Debug/net8.0/Calculadora_De_Notas.assets.cache
-/01_Concionais/Calculadora_De_Notas/Calculadora_De_Notas/obj/Debug/net8.0/Calculadora_De_Notas.AssemblyInfoInputs.cache
-/01_Concionais/Positivo_Negativo_ou_Zero/Positivo_Negativo_ou_Zero/obj/Release/net8.0
-/01_Concionais/Validação_Idade/.vs
-/01_Concionais/Validação_Idade/Validação_Idade
+# Pastas de Compilação (Build)
+bin/
+obj/
+
+# Arquivos do Docker (se não for usar agora)
+.dockerignore
+Dockerfile
 /01_Concionais/Validação_Idade
+/01_Concionais/Verificador_de_Idade
+/01_Concionais/Vrificador_de_Idade/.vs/ProjectEvaluation/vrificador_de_idade.metadata.v10.bin
