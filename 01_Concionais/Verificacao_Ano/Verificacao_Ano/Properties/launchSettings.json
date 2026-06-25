@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Verificacao_Ano": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
