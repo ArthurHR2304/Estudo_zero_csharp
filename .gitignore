@@ -6,6 +6,7 @@ bin/
 
 # Arquivos específicos do Visual Studio
 .vs/
+*.user
 *.suo
 *.user
 *.userosscache

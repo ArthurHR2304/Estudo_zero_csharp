@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "Vrificador_de_Idade": {
+    "Verificacao_Idade": {
       "commandName": "Project"
     },
     "Container (Dockerfile)": {
