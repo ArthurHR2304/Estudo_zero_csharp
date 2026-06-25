@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Verificacao_Idade": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
