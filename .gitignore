@@ -1,0 +1,16 @@
+# Pastas de compilação e artefatos do .NET
+[Dd]ebug/
+[Rr]elease/
+obj/
+bin/
+
+# Arquivos específicos do Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.slnx.sqlite
+
+# Arquivos do VS Code
+.vscode/
