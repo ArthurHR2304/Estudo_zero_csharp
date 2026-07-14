@@ -35,7 +35,7 @@ namespace Simulador_de_Impostos
             salarioLiq = salarioBruto - imposto;
 
 
-            Console.WriteLine($"O valor a ser recebido é de {salarioLiq.ToString("0.00")} ");
+            Console.WriteLine($"O valor a ser recebido é de RS{salarioLiq.ToString("0.00")} ");
         }
     }
 }
