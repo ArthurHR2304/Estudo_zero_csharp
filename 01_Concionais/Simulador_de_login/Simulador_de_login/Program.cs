@@ -1,4 +1,7 @@
-﻿namespace Simulador_de_login
+﻿using System;
+using System.Linq;
+
+namespace Simulador_de_login
 {
     internal class Program
     {
@@ -19,6 +22,12 @@
             Console.Write("Informe a sua senha de login:");
             string pass = Console.ReadLine();
             Console.WriteLine();
+
+            if(senha.Length >= 8 && senha.Contains("@") || senha.Contains("!"))
+                Console.Write("Cadastre uma nova senha:");
+                
+            
+            
 
             if (user == usuário && pass == senha)
             {
