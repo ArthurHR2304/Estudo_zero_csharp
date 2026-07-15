@@ -1,0 +1,13 @@
+O LAÇO WHILE (ENQUANTO)
+
+O while é o mais simples de entender. Ele funciona de forma muito parecida com um if, mas com uma diferença crucial:
+o if testa a condição e roda o bloco uma vez; o while testa a condição, roda o bloco e volta a testar a condição até que ela seja falsa.
+
+A ESTRUTURA DELE É ASSIM:
+    C#
+    while (condição)
+    {
+        // Código que vai ficar repetindo
+    }
+
+
