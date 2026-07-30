@@ -1,0 +1,26 @@
+Diferente do while (que roda enquanto uma condição for verdadeira e costuma ser usado para repetições "indefinidas"), 
+o for junta tudo o que você precisa em uma única linha organizada:
+
+A inicialização da variável (ex: int i = 0);
+
+A condição para continuar rodando (ex: i < 10);
+
+O incremento/passo a cada rodada (ex: i++).
+
+
+A Estrutura do for
+Veja como a sintaxe dele funciona no C#:
+
+
+
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"Rodada número: {i}");
+}
+
+
+O computador lê essa estrutura assim:
+
+int i = 0; -> Cria a variável i valendo 0 (só executa 1 vez, no início).
+i < 5; -> Testa a condição. Se for verdadeira, entra no bloco do loop.
+i++ -> No final de cada rodada, soma +1 no i e volta para testar a condição de novo.
