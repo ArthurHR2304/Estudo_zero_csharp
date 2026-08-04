@@ -1,0 +1,53 @@
+📦 O que é um Array?
+Pense em um Array como uma caixa de ovos ou uma gaveta com várias divisórias:
+
+A gaveta inteira tem um único nome (ex: numeros).
+
+Cada compartimento guarda um valor.
+
+Cada compartimento tem um número de identificação chamado Índice (Index).
+
+⚠️ Regra de Ouro da Programação: > A contagem dos índices SEMPRE começa no ZERO!
+
+Se um array tem tamanho 5, os índices serão: 0, 1, 2, 3, 4.
+
+=======================================================================================
+
+💻 Como criar um Array em C#?
+A sintaxe básica para declarar e inicializar um array de inteiros com 5 posições é:
+
+// Cria um array de inteiros com espaço para 5 números
+int[] numeros = new int[5];
+
+// Guardando valores nas posições (índices):
+numeros[0] = 10;
+numeros[1] = 20;
+numeros[2] = 30;
+numeros[3] = 40;
+numeros[4] = 50;
+
+// Lendo um valor específico:
+Console.WriteLine(numeros[0]); // Vai imprimir 10
+
+=========================================================================================
+
+Você também pode criar já preenchendo os valores direto:
+
+int[] numeros = new int[] { 10, 20, 30, 40, 50 };
+
+=========================================================================================
+
+🤝 A União Perfeita: Array + for
+Para percorrer um array inteiro, usamos o for onde a variável i representa o índice!
+
+
+int[] valores = { 5, 12, 8, 25, 30 };
+
+// valores.Length nos dá o tamanho total do array (5)
+for (int i = 0; i < valores.Length; i++)
+{
+    Console.WriteLine($"Na posição {i} temos o valor: {valores[i]}");
+}
+
+=========================================================================================
+
