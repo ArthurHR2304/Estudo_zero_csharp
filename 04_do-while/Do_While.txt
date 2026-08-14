@@ -1,0 +1,7 @@
+Qual a diferença rápida para o while?
+
+while: "Valida antes de entrar". Se a condição for falsa no início, não roda nenhuma vez.
+
+do-while: "Executa primeiro, valida depois". 
+Garante pelo menos 1 execução, sendo perfeito para pedir dados ao usuário até que ele digite algo válido ou decida sair.
+
