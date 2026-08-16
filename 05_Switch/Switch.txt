@@ -1,0 +1,29 @@
+O switch funciona como um "roteador" de opções. 
+Em vez de encadear vários if (opcao == 1), else if (opcao == 2), você passa a variável para o switch e define cada case (caso).
+
+📌 Sintaxe Básica do switch
+C#
+int opcao = 1;
+
+switch (opcao)
+{
+    case 1:
+        Console.WriteLine("Você escolheu a opção 1");
+        break; // O break serve para "sair" do switch após executar o código
+
+    case 2:
+        Console.WriteLine("Você escolheu a opção 2");
+        break;
+
+    default: // O default executa se NENHUM dos cases acima for correspondente (é o seu "else")
+        Console.WriteLine("Opção inválida!");
+        break;
+}
+
+Regras importantes:
+
+case X: Marca o valor que você quer comparar.
+
+break; É obrigatório no C# ao final de cada case para parar a execução e não invadir o caso de baixo.
+
+default: Funciona como o else. Se o usuário digitar algo diferente de todos os case, o programa cai aqui.
