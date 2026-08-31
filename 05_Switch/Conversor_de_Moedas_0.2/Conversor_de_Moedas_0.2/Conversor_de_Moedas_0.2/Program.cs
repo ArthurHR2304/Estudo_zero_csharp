@@ -33,7 +33,7 @@
                 Console.Write("Informe um número para realizar a conversão :");
                 if (int.TryParse(Console.ReadLine(), out opcao))
                 {
-                    Console.Clear(); 
+                    Console.Clear();
 
                     switch (opcao)
                     {
@@ -84,15 +84,15 @@
                     Console.WriteLine("Entrada inválida!");
                 }
 
-                
+
                 if (opcao != 11)
                 {
                     Console.WriteLine("Deseja calcular uma nova cotação (S/N): ");
                     continua = Console.ReadLine()?.Trim().ToUpper();
 
                 }
-            } while (continua == "S" && opcao != 8 );
-            
+            } while (continua == "S" && opcao != 8);
+
             if (continua == "N")
             {
                 Console.WriteLine("Finalizando Sistema após execução do usuário!!");
