@@ -1,0 +1,134 @@
+Uma List<T> no C# é uma coleção dinâmica de elementos do mesmo tipo.
+Ao contrário do Array (string[]), que tem tamanho fixo, a lista cresce e diminui conforme você adiciona ou remove itens.
+
+//========================================================================
+
+O <T> indica o tipo de dado que a lista vai armazenar (por exemplo: List<string>, List<int>, List<double>).
+
+📌 Sintaxe Básica e Namespace
+Para usar listas, você precisa incluir a biblioteca System.Collections.Generic.
+
+using System.Collections.Generic;
+
+// Declaração e instanciação de uma lista de textos
+List<string> nomes = new List<string>();
+
+//=======================================================================
+
+🛠️ Operações Principais (CRUD)
+1. Adicionar Itens (.Add e .AddRange)
+.Add(valor): Adiciona um item ao final da lista.
+
+.Insert(indice, valor): Insere um item em uma posição específica.
+
+
+List<string> frutas = new List<string>();
+
+// Adiciona ao final
+frutas.Add("Maçã");
+frutas.Add("Banana");
+
+// Insere "Uva" na posição 0 (primeira posição)
+frutas.Insert(0, "Uva");
+
+//=========================================================================================
+
+2. Visualizar/Listar Itens (foreach ou for)
+Você pode acessar itens pelo índice (frutas[0]) ou percorrer com um loop.
+
+// Exemplo com foreach
+foreach (string fruta in frutas)
+{
+    Console.WriteLine(fruta);
+}
+
+// Exemplo com for (útil quando precisa do índice)
+for (int i = 0; i < frutas.Count; i++)
+{
+    Console.WriteLine($"{i + 1}. {frutas[i]}");
+}
+
+//==========================================================================================
+
+3. Editar/Atualizar Itens
+Para editar, basta acessar a posição desejada pelo seu índice e atribuir um novo valor.
+
+// Altera o item que está no índice 1 ("Maçã") para "Morangos"
+frutas[1] = "Morango";
+
+//==========================================================================================
+
+4. Remover Itens (.Remove, .RemoveAt, .Clear)
+.Remove(valor): Remove a primeira ocorrência do valor informado.
+
+.RemoveAt(indice): Remove o item localizado em um índice específico.
+
+.Clear(): Apaga todos os elementos da lista.
+
+
+// Remove pelo valor exato
+frutas.Remove("Banana");
+
+// Remove pelo índice (exemplo: remove o primeiro item)
+frutas.RemoveAt(0);
+
+// Limpa a lista inteira
+frutas.Clear();
+
+//========================================================================================
+
+5. Funções Úteis para Consulta
+.Count: Retorna a quantidade de itens na lista.
+
+.Contains(valor): Retorna true se o item existir na lista.
+
+.IndexOf(valor): Retorna o índice onde o item se encontra (-1 se não encontrar).
+
+
+int quantidade = frutas.Count; // Quantidade atual
+bool temMaca = frutas.Contains("Maçã"); // Retorna true ou false
+int indice = frutas.IndexOf("Morango"); // Retorna a posição do item
+
+//========================================================================================
+
+📄 Exemplo Completo para Consulta
+C#
+using System;
+using System.Collections.Generic;
+
+namespace ExemploListas
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // CREAT (Criar/Adicionar)
+            List<string> produtos = new List<string>();
+            produtos.Add("Teclado");
+            produtos.Add("Mouse");
+            produtos.Add("Monitor");
+
+            // READ (Ler/Exibir)
+            Console.WriteLine("--- Lista Inicial ---");
+            for (int i = 0; i < produtos.Count; i++)
+            {
+                Console.WriteLine($"[{i}] {produtos[i]}");
+            }
+
+            // UPDATE (Editar)
+            // Alterando "Mouse" (índice 1) para "Mouse Sem Fio"
+            produtos[1] = "Mouse Sem Fio";
+
+            // DELETE (Remover)
+            // Removendo "Teclado" pelo nome
+            produtos.Remove("Teclado");
+
+            // READ (Exibindo após alterações)
+            Console.WriteLine("\n--- Lista Atualizada ---");
+            foreach (string item in produtos)
+            {
+                Console.WriteLine($"- {item}");
+            }
+        }
+    }
+}
